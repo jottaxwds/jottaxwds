@@ -3,7 +3,6 @@
 I'm José Antonio Camiña:
  - 👶🏼 Proud dad.
  - 💻 Senior Frontend Engineer.
- - 🇸 Spain.
 
 ### My Knowledge:
 
@@ -30,24 +29,24 @@ During this time, I primarily worked independently as a solo developer or indivi
 - Modifying and creating WordPress/Joomla CMS plugins and themes to align with design requirements for existing websites.
 
 ⏩ Right after my initial two years of experience, I enthusiastically transitioned into working extensively with frontend technologies and frameworks based on JavaScript. However, I did not abandon my knowledge of Vanilla JS or JQuery; rather, I continued to utilize and enhance my skills in these areas alongside exploring new technologies. This allowed me to broaden my expertise and stay adaptable to different project requirements and industry trends. By embracing the evolving landscape of JavaScript-based frontend development, I further enriched my capabilities as a well-rounded frontend developer.
+  - Javascript
+  - Typescript
   - React
   - Redux
+  - NodeJS
   - Redux Sagas
-  - Typescript/Flow
   - GraphQL
-  - React Native (not much relevant things done here but at least I get a grasp about how React Native apps were done).
-  - VueJS - Vuex
-  - (Last but not least) NodeJS
+  - React Native
 
-🔎 Absolutely! As a quality enthusiast, I place a strong emphasis on testing at all levels of the development process, including unit testing, integration testing, and end-to-end (e2e) testing:
+🔎 Quality enthusiast, I place a strong emphasis on testing at all levels of the development process, including unit testing, integration testing, and end-to-end (e2e) testing:
  - Jest/Enzyme
- - React/Vue testing library
+ - React testing library
  - Cypress
 
 🏁 One of the major highlights of my career has been the opportunity to lead and manage small frontend teams. As a team leader, I have taken on the responsibility of guiding and mentoring junior developers, helping them grow both technically and professionally. By fostering a collaborative and supportive environment, I have been able to nurture their skills and provide guidance throughout their development journey.
 
 Additionally, I have actively contributed to frontend architecture, leveraging my expertise to design scalable and maintainable systems. By establishing best practices, coding standards, and architectural guidelines, I have helped teams streamline their development processes and deliver high-quality frontend solutions.
 
-Through my leadership and contributions to frontend architecture, I have been able to create a positive impact on the success of projects and the growth of individuals within the teams I have managed. 
+Through my leadership and contributions to frontend architecture, I have created a possitive impact on the success of projects and the growth of individuals within the teams I have managed. 
 
-🗺️ Since 2018, I have been fully immersed in the remote work lifestyle, embracing the opportunity to work from anywhere and embracing the experience of being a digital nomad as much as possible.
+🗺️ Since 2018, I have been fully immersed in the remote work lifestyle, embracing the opportunity to work from anywhere.
